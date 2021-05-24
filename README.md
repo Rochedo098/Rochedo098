@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there
 
-**Rochedo098/Rochedo098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Active Projects
+> [Planets And Stars](https://github.com/Rochedo098/Planets-and-Stars) is a Fabric mod with the goal of being a realistic and customizable space experience
 
-Here are some ideas to get you started:
+## Archived Projects
+> `Ender Star` it's the beginning of Planets And Stars, but unfinished and totally different
 
-- 🔭 I’m currently working on EnderStar
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+> `Advanced Security` is a port of Security Craft, but unfinished and totally abandoned
