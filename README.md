@@ -1,4 +1,4 @@
-### Hi there
+### Hello Everyone
 
 ## Active Projects
 > [Planets And Stars](https://github.com/Rochedo098/Planets-and-Stars) is a Fabric mod with the goal of being a realistic and customizable space experience.  
