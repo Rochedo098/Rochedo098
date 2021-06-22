@@ -5,7 +5,7 @@
 
 > [Power of Stars](https://github.com/Rochedo098/PowerOfStars)  is a simple magic mod for FabricMC.
 
-> [CoffeeMC](https://github.com/Rochedo098/CoffeeMC) is a simple mod that adds coffees to minecraft. This project is not available to the public yet.  
+> [CoffeeMC](https://github.com/Rochedo098/CoffeeMC) is a simple mod that adds coffees to minecraft.  
 
 > [Droids](https://github.com/Rochedo098/Droids) change yourself with modules, plugins and armor to transform into an droid 
   
